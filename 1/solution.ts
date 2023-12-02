@@ -5,11 +5,11 @@ const input = inputText.split("\n");
 const test = ["1abc2", "pqr3stu8vwx", "a1b2c3d4e5f", "treb7uchet"];
 const testB = [
   "two1nine",
-  "eightwothree",
+  "eightwothreeight",
   "abcone2threexyz",
   "xtwone3four",
   "4nineeightseven2",
-  "zoneight234",
+  "zoneight234", 
   "7pqrstsixteen",
 ];
 
