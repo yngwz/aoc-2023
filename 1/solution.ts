@@ -1,6 +1,6 @@
-const inputFile = Bun.file("./1/input.txt");
-const inputText = await inputFile.text();
-const input = inputText.split("\n");
+import { loadPuzzleInput } from "../helpers";
+
+const input = await loadPuzzleInput("./1/input.txt")
 
 const test = ["1abc2", "pqr3stu8vwx", "a1b2c3d4e5f", "treb7uchet"];
 const testB = [
